@@ -1,1 +1,1 @@
-"# Resource-Pack" 
+# The Adriftus Resource Pack
