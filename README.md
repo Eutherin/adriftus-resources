@@ -1,10 +1,10 @@
 ====================================================================================================
 
-Aurora Interactive - Resource Pack - MC Version 1.14+
+Adriftus Studios - Resource Pack - MC Version 1.16+
 
 for Vanilla Minecraft
 
-https://github.com/AuroraInteractive/AuroraPack
+https://github.com/Adriftus-Studios/adriftus-resources
 
 ====================================================================================================
 
@@ -32,7 +32,7 @@ Alternately on a Windows based system you can:
     Then press Enter/Return
 
 
-Copy/Move the file "Aurora_Pack.zip" into the ".minecraft/resourcepacks" folder (you don't
+Copy/Move the file "adriftus-resources.zip" into the ".minecraft/resourcepacks" folder (you don't
 need to extract it!).
 
 
@@ -44,14 +44,14 @@ need to extract it!).
 
     Select "Resource Packs" (bottom left).
 
-    Then select "Aurora_Pack v1.1.00". (or whatever the latest version is)
+    Then select "adriftus-resources". (or whatever the latest version is)
 
 
 -What happens if I declined the RP------------------------------------------------------------------
 
     If you declined the RP when joining any server, you must allow Resource Packs again.
     
-    On the server select screen, Single Click on "Aurora Gaming" (Or whatever you call our server)
+    On the server select screen, Single Click on "Adriftus Studios" (Or whatever you call our server)
     
     Click "Edit" on the bottom left.
     
