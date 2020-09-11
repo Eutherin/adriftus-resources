@@ -1,0 +1,8 @@
+# ██ [ File-types                 ] ██
+*.old
+*.archive
+*.xcf
+
+# ██ [ Root Directories           ] ██
+build
+scripts

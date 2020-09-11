@@ -1,0 +1,58 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "adriftus:logos/icon/letter_large.png",
+            "ascent": 0,
+            "height": 200,
+            "chars": [
+                "\u6900"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:logos/icon/letter_small.png",
+            "ascent": 0,
+            "height": 64,
+            "chars": [
+                "\u6901"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:logos/icon/plain_letter_large.png",
+            "ascent": 0,
+            "height": 450,
+            "chars": [
+                "\u6902"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:logos/base/small.png",
+            "ascent": 0,
+            "height": 150,
+            "chars": [
+                "\u6903"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:logos/base/large.png",
+            "ascent": 0,
+            "height": 1198,
+            "chars": [
+                "\u6904"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "adriftus:logos/banners/large.png",
+            "ascent": 0,
+            "height": 857,
+            "chars": [
+                "\u6905"
+            ]
+        }
+    ]
+}
