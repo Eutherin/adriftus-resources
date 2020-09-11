@@ -2,6 +2,9 @@
 *.old
 *.archive
 *.xcf
+*.bbmodel
+*.cubik
+*.schematic
 
 # ██ [ Root Directories           ] ██
 build
