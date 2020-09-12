@@ -1,0 +1,12 @@
+{
+	"__usecomment": "For use with Behr's OSRS Project; Some content in this project is licensed under CC BY-NC-SA 3.0",
+  "__trademarks": "RuneScape and RuneScape Old School are the trademarks of Jagex Limited and are used with the permission of Jagex",
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/wooden_sword"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1}, "model": "gielinor:item/custom/handheld/bandos_godsword" },
+    { "predicate": { "custom_model_data": 2}, "model": "gielinor:item/custom/handheld/zamorak_godsword" }
+  ]
+}
