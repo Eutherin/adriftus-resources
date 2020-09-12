@@ -35,6 +35,12 @@
 
 ---
 
+## Contributing To our Project
+
+Please see our [Contributing Guide](CONTRIBUTING.md) for a basic grounds on getting started with our project.
+
+---
+
 ## Support FAQ | Manual Installation
 
 > **NOTE**: This Resource Pack is not compatible with older releases of Minecraft.
