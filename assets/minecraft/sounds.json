@@ -1,0 +1,1017 @@
+{
+  "custom.bonk": {
+    "sounds": [
+      "adriftus:custom/bonk1",
+      "adriftus:custom/bonk2",
+      "adriftus:custom/bonk3",
+      "adriftus:custom/bonk4"
+    ],
+    "category": "player"
+  },
+  "custom.sonic": {
+    "sounds": [
+      "adriftus:custom/sonic"
+    ],
+    "category": "player"
+  },
+  "custom.crack": {
+    "sounds": [
+      {
+        "name": "adriftus:custom/crack1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1,
+        "weight": 3
+      },
+      {
+        "name": "adriftus:custom/crack1",
+        "stream": false,
+        "volume": 0.9,
+        "pitch": 0.7
+      },
+      {
+        "name": "adriftus:custom/crack1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "adriftus:custom/crack1",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "adriftus:custom/crack1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1.3
+      }
+    ],
+    "category": "player"
+  },
+  "custom.electrify": {
+    "sounds": [
+      {
+        "name": "adriftus:custom/electrify1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1,
+        "weight": 3
+      },
+      {
+        "name": "adriftus:custom/electrify1",
+        "stream": false,
+        "volume": 0.9,
+        "pitch": 0.7
+      },
+      {
+        "name": "adriftus:custom/electrify1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "adriftus:custom/electrify1",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "adriftus:custom/electrify1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1.3
+      }
+    ],
+    "category": "player"
+  },
+  "custom.hit": {
+    "sounds": [
+      "adriftus:custom/hit1",
+      "adriftus:custom/hit2",
+      "adriftus:custom/hit3",
+      "adriftus:custom/hit4"
+    ],
+    "category": "player"
+  },
+  "custom.shimmer_crack": {
+    "sounds": [
+      {
+        "name": "adriftus:custom/shimmer_crack1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1,
+        "weight": 3
+      },
+      {
+        "name": "adriftus:custom/shimmer_crack1",
+        "stream": false,
+        "volume": 0.9,
+        "pitch": 0.7
+      },
+      {
+        "name": "adriftus:custom/shimmer_crack1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "adriftus:custom/shimmer_crack1",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "adriftus:custom/shimmer_crack1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1.3
+      }
+    ],
+    "category": "player"
+  },
+  "custom.shimmer": {
+    "sounds": [
+      {
+        "name": "adriftus:custom/shimmer1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1,
+        "weight": 3
+      },
+      {
+        "name": "adriftus:custom/shimmer1",
+        "stream": false,
+        "volume": 0.9,
+        "pitch": 0.7
+      },
+      {
+        "name": "adriftus:custom/shimmer1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "adriftus:custom/shimmer1",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "adriftus:custom/shimmer1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1.3
+      }
+    ],
+    "category": "player"
+  },
+  "custom.zap_crack": {
+    "sounds": [
+      {
+        "name": "adriftus:custom/zap_crack1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1,
+        "weight": 3
+      },
+      {
+        "name": "adriftus:custom/zap_crack1",
+        "stream": false,
+        "volume": 0.9,
+        "pitch": 0.7
+      },
+      {
+        "name": "adriftus:custom/zap_crack1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "adriftus:custom/zap_crack1",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "adriftus:custom/zap_crack1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1.3
+      }
+    ],
+    "category": "player"
+  },
+  "custom.zap": {
+    "sounds": [
+      {
+        "name": "adriftus:custom/zap1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1,
+        "weight": 3
+      },
+      {
+        "name": "adriftus:custom/zap1",
+        "stream": false,
+        "volume": 0.9,
+        "pitch": 0.7
+      },
+      {
+        "name": "adriftus:custom/zap1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "adriftus:custom/zap1",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "adriftus:custom/zap1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1.3
+      }
+    ],
+    "category": "player"
+  },
+  "custom.zap_big": {
+    "sounds": [
+      {
+        "name": "adriftus:custom/zap_big1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1,
+        "weight": 3
+      },
+      {
+        "name": "adriftus:custom/zap_big1",
+        "stream": false,
+        "volume": 0.9,
+        "pitch": 0.7
+      },
+      {
+        "name": "adriftus:custom/zap_big1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "adriftus:custom/zap_big1",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "adriftus:custom/zap_big1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1.3
+      }
+    ],
+    "category": "player"
+  },
+  "custom.teleport": {
+    "sounds": [
+      {
+        "name": "adriftus:custom/teleport1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1,
+        "weight": 3
+      },
+      {
+        "name": "adriftus:custom/teleport1",
+        "stream": false,
+        "volume": 0.9,
+        "pitch": 0.7
+      },
+      {
+        "name": "adriftus:custom/teleport1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "adriftus:custom/teleport1",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "adriftus:custom/teleport1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1.3
+      },
+      {
+        "name": "adriftus:custom/teleport2",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1,
+        "weight": 3
+      },
+      {
+        "name": "adriftus:custom/teleport2",
+        "stream": false,
+        "volume": 0.9,
+        "pitch": 0.7
+      },
+      {
+        "name": "adriftus:custom/teleport2",
+        "stream": false,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "adriftus:custom/teleport2",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "adriftus:custom/teleport2",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1.3
+      }
+    ],
+    "category": "player"
+  },
+  "custom.shield": {
+    "sounds": [
+      {
+        "name": "adriftus:custom/shield1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1,
+        "weight": 3
+      },
+      {
+        "name": "adriftus:custom/shield1",
+        "stream": false,
+        "volume": 0.9,
+        "pitch": 0.7
+      },
+      {
+        "name": "adriftus:custom/shield1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "adriftus:custom/shield1",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "adriftus:custom/shield1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1.3
+      }
+    ],
+    "category": "player"
+  },
+  "custom.burn": {
+    "sounds": [
+      {
+        "name": "adriftus:custom/burn1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1,
+        "weight": 3
+      },
+      {
+        "name": "adriftus:custom/burn1",
+        "stream": false,
+        "volume": 0.9,
+        "pitch": 0.7
+      },
+      {
+        "name": "adriftus:custom/burn1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "adriftus:custom/burn1",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "adriftus:custom/burn1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1.3
+      }
+    ],
+    "category": "player"
+  },
+  "custom.ignite": {
+    "sounds": [
+      {
+        "name": "adriftus:custom/ignite1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1,
+        "weight": 3
+      },
+      {
+        "name": "adriftus:custom/ignite1",
+        "stream": false,
+        "volume": 0.9,
+        "pitch": 0.7
+      },
+      {
+        "name": "adriftus:custom/ignite1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "adriftus:custom/ignite1",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "adriftus:custom/ignite1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1.3
+      }
+    ],
+    "category": "player"
+  },
+  "custom.shimmer_quiet": {
+    "sounds": [
+      {
+        "name": "adriftus:custom/shimmer_quiet1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1,
+        "weight": 3
+      },
+      {
+        "name": "adriftus:custom/shimmer_quiet1",
+        "stream": false,
+        "volume": 0.9,
+        "pitch": 0.7
+      },
+      {
+        "name": "adriftus:custom/shimmer_quiet1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "adriftus:custom/shimmer_quiet1",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "adriftus:custom/shimmer_quiet1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1.3
+      }
+    ],
+    "category": "player"
+  },
+  "custom.flying": {
+    "sounds": [
+      {
+        "name": "adriftus:custom/flying1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1,
+        "weight": 3
+      },
+      {
+        "name": "adriftus:custom/flying1",
+        "stream": false,
+        "volume": 0.9,
+        "pitch": 0.7
+      },
+      {
+        "name": "adriftus:custom/flying1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "adriftus:custom/flying1",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "adriftus:custom/flying1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1.3
+      }
+    ],
+    "category": "player"
+  },
+  "custom.paperturn": {
+    "sounds": [
+      {
+        "name": "adriftus:custom/paperturn1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1,
+        "weight": 3
+      },
+      {
+        "name": "adriftus:custom/paperturn1",
+        "stream": false,
+        "volume": 0.9,
+        "pitch": 0.7
+      },
+      {
+        "name": "adriftus:custom/paperturn1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "adriftus:custom/paperturn1",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "adriftus:custom/paperturn1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1.3
+      }
+    ],
+    "category": "player"
+  },
+  "custom.wandup": {
+    "sounds": [
+      {
+        "name": "adriftus:custom/wandup1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1,
+        "weight": 3
+      },
+      {
+        "name": "adriftus:custom/wandup1",
+        "stream": false,
+        "volume": 0.9,
+        "pitch": 0.7
+      },
+      {
+        "name": "adriftus:custom/wandup1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "adriftus:custom/wandup1",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "adriftus:custom/wandup1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1.3
+      }
+    ],
+    "category": "player"
+  },
+  "custom.wanddown": {
+    "sounds": [
+      {
+        "name": "adriftus:custom/wanddown1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1,
+        "weight": 3
+      },
+      {
+        "name": "adriftus:custom/wanddown1",
+        "stream": false,
+        "volume": 0.9,
+        "pitch": 0.7
+      },
+      {
+        "name": "adriftus:custom/wanddown1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "adriftus:custom/wanddown1",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "adriftus:custom/wanddown1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1.3
+      }
+    ],
+    "category": "player"
+  },
+  "custom.shimmer_big": {
+    "sounds": [
+      {
+        "name": "adriftus:custom/shimmer_big1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1,
+        "weight": 3
+      },
+      {
+        "name": "adriftus:custom/shimmer_big1",
+        "stream": false,
+        "volume": 0.9,
+        "pitch": 0.7
+      },
+      {
+        "name": "adriftus:custom/shimmer_big1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "adriftus:custom/shimmer_big1",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "adriftus:custom/shimmer_big1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1.3
+      }
+    ],
+    "category": "player"
+  },
+  "custom.shield_boom": {
+    "sounds": [
+      {
+        "name": "adriftus:custom/shield_boom1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1,
+        "weight": 3
+      },
+      {
+        "name": "adriftus:custom/shield_boom1",
+        "stream": false,
+        "volume": 0.9,
+        "pitch": 0.7
+      },
+      {
+        "name": "adriftus:custom/shield_boom1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "adriftus:custom/shield_boom1",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "adriftus:custom/shield_boom1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1.3
+      }
+    ],
+    "category": "player"
+  },
+  "custom.zap_up": {
+    "sounds": [
+      {
+        "name": "adriftus:custom/zap_up1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1,
+        "weight": 3
+      },
+      {
+        "name": "adriftus:custom/zap_up1",
+        "stream": false,
+        "volume": 0.9,
+        "pitch": 0.7
+      },
+      {
+        "name": "adriftus:custom/zap_up1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "adriftus:custom/zap_up1",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "adriftus:custom/zap_up1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1.3
+      }
+    ],
+    "category": "player"
+  },
+  "custom.vanish": {
+    "sounds": [
+      {
+        "name": "adriftus:custom/vanish1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1,
+        "weight": 3
+      },
+      {
+        "name": "adriftus:custom/vanish1",
+        "stream": false,
+        "volume": 0.9,
+        "pitch": 0.7
+      },
+      {
+        "name": "adriftus:custom/vanish1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "adriftus:custom/vanish1",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "adriftus:custom/vanish1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1.3
+      }
+    ],
+    "category": "player"
+  },
+  "flute.1c": {
+    "sounds": [
+      "flute/1cmid"
+    ],
+    "category": "player"
+  },
+  "flute.2csharp": {
+    "sounds": [
+      "flute/2csharp"
+    ],
+    "category": "player"
+  },
+  "flute.3d": {
+    "sounds": [
+      "flute/3d"
+    ],
+    "category": "player"
+  },
+  "flute.4dsharp": {
+    "sounds": [
+      "flute/4dsharp"
+    ],
+    "category": "player"
+  },
+  "flute.5e": {
+    "sounds": [
+      "flute/5e"
+    ],
+    "category": "player"
+  },
+  "flute.6f": {
+    "sounds": [
+      "flute/6f"
+    ],
+    "category": "player"
+  },
+  "flute.7fsharp": {
+    "sounds": [
+      "flute/7fsharp"
+    ],
+    "category": "player"
+  },
+  "flute.8g": {
+    "sounds": [
+      "flute/8g"
+    ],
+    "category": "player"
+  },
+  "flute.9gsharp": {
+    "sounds": [
+      "flute/9gsharp"
+    ],
+    "category": "player"
+  },
+  "flute.10a": {
+    "sounds": [
+      "flute/10a"
+    ],
+    "category": "player"
+  },
+  "flute.11asharp": {
+    "sounds": [
+      "flute/11asharp"
+    ],
+    "category": "player"
+  },
+  "flute.12b": {
+    "sounds": [
+      "flute/12b"
+    ],
+    "category": "player"
+  },
+  "flute.13coctave": {
+    "sounds": [
+      "flute/13coctave"
+    ],
+    "category": "player"
+  },
+  "flute.14csharp": {
+    "sounds": [
+      "flute/14csharp"
+    ],
+    "category": "player"
+  },
+  "flute.15d": {
+    "sounds": [
+      "flute/15d"
+    ],
+    "category": "player"
+  },
+  "flute.16dsharp": {
+    "sounds": [
+      "flute/16dsharp"
+    ],
+    "category": "player"
+  },
+  "flute.17e": {
+    "sounds": [
+      "flute/17e"
+    ],
+    "category": "player"
+  },
+  "flute.18f": {
+    "sounds": [
+      "flute/18f"
+    ],
+    "category": "player"
+  },
+  "flute.19fsharp": {
+    "sounds": [
+      "flute/19fsharp"
+    ],
+    "category": "player"
+  },
+  "flute.20g": {
+    "sounds": [
+      "flute/20g"
+    ],
+    "category": "player"
+  },
+  "flute.21gsharp": {
+    "sounds": [
+      "flute/21gsharp"
+    ],
+    "category": "player"
+  },
+  "flute.22a": {
+    "sounds": [
+      "flute/22a"
+    ],
+    "category": "player"
+  },
+  "flute.23asharp": {
+    "sounds": [
+      "flute/23asharp"
+    ],
+    "category": "player"
+  },
+  "flute.24b": {
+    "sounds": [
+      "flute/24b"
+    ],
+    "category": "player"
+  },
+  "custom.ringing": {
+    "sounds": [
+      "adriftus:custom/ringing1"
+    ],
+    "category": "player"
+  },
+  "custom.grunt": {
+    "sounds": [
+      "adriftus:custom/grunt"
+    ],
+    "category": "player"
+  },
+  "custom.growl": {
+    "sounds": [
+      "adriftus:custom/growl"
+    ],
+    "category": "player"
+  },
+  "custom.warhorn": {
+    "sounds": [
+      "adriftus:custom/warhorn"
+    ],
+    "category": "player"
+  },
+  "custom.adventure": {
+    "sounds": [
+      "adriftus:custom/adventure"
+    ],
+    "category": "player"
+  },
+  "custom.buy_coins": {
+    "sounds": [
+      "adriftus:custom/buy_coins"
+    ],
+    "category": "player"
+  },
+  "custom.sell_coins": {
+    "sounds": [
+      "adriftus:custom/sell_coins"
+    ],
+    "category": "player"
+  },
+  "custom.metal_clash": {
+    "sounds": [
+      "adriftus:custom/metal_clash"
+    ],
+    "category": "player"
+  },
+  "custom.cloth_inventory": {
+    "sounds": [
+      "adriftus:custom/cloth_inventory"
+    ],
+    "category": "player"
+  },
+  "custom.leather_inventory": {
+    "sounds": [
+      "adriftus:custom/leather_inventory"
+    ],
+    "category": "player"
+  },
+  "custom.ring_inventory": {
+    "sounds": [
+      "adriftus:custom/ring_inventory"
+    ],
+    "category": "player"
+  },
+  "custom.anvil_hit": {
+    "sounds": [
+      "adriftus:custom/anvil_hit"
+    ],
+    "category": "player"
+  },
+  "custom.soul_imbue": {
+    "sounds": [
+      "adriftus:custom/soul_imbue"
+    ],
+    "category": "player"
+  },
+  "custom.soul_forge_open": {
+    "sounds": [
+      "adriftus:custom/soul_forge_open"
+    ],
+    "category": "player"
+  },
+  "custom.death_graveyard": {
+    "sounds": [
+      "adriftus:custom/death_graveyard"
+    ],
+    "category": "player"
+  },
+  "custom.spawn_fae": {
+    "sounds": [
+      "adriftus:custom/spawn_fae"
+    ],
+    "category": "player"
+  }
+}

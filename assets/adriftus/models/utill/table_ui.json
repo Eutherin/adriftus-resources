@@ -1,0 +1,31 @@
+{
+  "gui_light": "front",
+	"credit": "Made By BronGhast014 with Blockbench",
+	"textures": {
+		"0": "adriftus:ui/table",
+		"particle": "adriftus:ui/table"
+	},
+	"elements": [
+		{
+			"from": [-16, -16, 1],
+			"to": [32, 32, 1],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"ground": {
+			"scale": [0, 0, 0]
+		},
+		"gui": {
+			"translation": [68, -63, 0],
+			"scale": [3.65, 3.65, 3.65]
+		}
+	}
+}

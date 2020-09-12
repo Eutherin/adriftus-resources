@@ -1,0 +1,20 @@
+{
+	"textures": {
+		"layer0": "block/ice"
+	},
+	"elements": [
+		{
+			"from": [ 2, 4, 2 ],
+			"to": [ 14, 15, 14 ],
+			"faces": {
+				"up": { "texture": "#layer0", "tintindex": 0, "cullface": "up" }
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"scale": [2.4, 2.4, 2.4],
+			"translation": [0, -15, 0]
+		}
+	}
+}

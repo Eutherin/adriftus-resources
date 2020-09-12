@@ -1,0 +1,21 @@
+{
+  "language.name": "English",
+  "language.region": "United States",
+  "language.code": "en_us",
+
+  "resourcePack.available.title": "§r§nAvailable Resource Packs§r",
+  "resourcePack.selected.title": "§r§nSelected Resource Packs§r",
+  "resourcePack.server.name": "§6Adriftus Network",
+  
+  
+  "menu.respawning": "§6Return to Lifestone",
+  "menu.shareToLan": "§6play.adriftus.com",
+  "menu.disconnect": "§cLogout?",
+  "menu.returnToGame": "§aReturn to Adriftus",
+
+  "options.language": "Language",
+  "options.sounds": "Better with Sound",
+  "options.resourcepack": "Custom Resource (/rp)",
+
+  "debug.prefix": "§r§e[Debug]:§r"
+}

@@ -1,0 +1,21 @@
+{
+	"credit": "Made By BronGhast014 with Blockbench",
+	"textures": {
+		"layer0": "block/water_still"
+	},
+	"elements": [
+		{
+			"from": [2, 4, 2],
+			"to": [14, 9, 14],
+			"faces": {
+				"up": {"uv": [2, 2, 14, 14], "texture": "#layer0", "cullface": "up", "tintindex": 0}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -14.3, 0],
+			"scale": [2.4, 2.4, 2.4]
+		}
+	}
+}
