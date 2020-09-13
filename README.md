@@ -57,7 +57,7 @@ You can open up the resource packs directory:
 1) On Windows:
 
     1. Click `Start` -> `Run`, or press `⊞ Windows` + `R`.
-    2. Type in `%APPDATA%/.minecraft/resourcepacks` and click "OK".
+    2. Type in `%APPDATA%\.minecraft\resourcepacks` and click "OK".
 
 2) On macOS:
 
