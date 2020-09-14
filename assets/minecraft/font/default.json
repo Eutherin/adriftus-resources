@@ -1,0 +1,31 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/textures/claims_banner.png",
+            "ascent": 0,
+            "height": 36,
+            "chars": [
+                "\u0001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blaze.gif",
+            "ascent": 0,
+            "height": 300,
+            "chars": [
+                "\u0002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "yellow_phat-64.png",
+            "ascent": 0,
+            "height": 64,
+            "chars": [
+                "\u0003"
+            ]
+        }
+    ]
+}
