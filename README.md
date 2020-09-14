@@ -48,40 +48,46 @@ Please see our [Contributing Guide](CONTRIBUTING.md) for a basic grounds on gett
 ### Where do I put the Resource Pack?
 
 1) Run the Minecraft Launcher, log in and press the Play button.
-2) On the Minecraft title screen select "Options"
-3) Select "Resource Packs" (bottom left).
-4) Then select "Open Resource Pack folder" (also on the bottom left).
+2) On the Minecraft title screen, select "Options".
+3) Select "Resource Packs" on the bottom left.
+4) Click "Open Resource Pack folder".
 
+You can open up the resource packs directory:
 
-Alternately on a Windows based system you can:
+1) On Windows:
 
-1) Click on "Windows Start" > Run (or search) and copy/paste the following:
+    1. Click `Start` -> `Run`, or press `⊞ Windows` + `R`.
+    2. Type in `%APPDATA%\.minecraft\resourcepacks` and click "OK".
 
-    `%appdata%/.minecraft/resourcepacks`
-2) Then press `Enter`/`Return`
+2) On macOS:
 
+    1. Open up Spotlight search by clicking the magnifying glass icon, or press `⌘ Command` + `Space`.
+    2. Type in `~/Library/Application Support/minecraft/resourcepacks` and press `↵ Enter`.
 
-Copy/Move the file `adriftus-resources.zip` into the `.minecraft/resourcepacks` folder (you don't
-need to extract it!).
+3) On Linux:
 
+    1. Open up your file manager application of choice.
+    2. Navigate to `~/.minecraft/resourcepacks`.
+
+    Alternatively, in your terminal:
+    Type `cd ~/.minecraft/resourcepacks`.
+
+Copy or move the file `adriftus-resources.zip` into your `resourcepacks` directory.
 
 ### How do I select this Resource Pack?
 
 1) Run the Minecraft Launcher, log in and press the Play button.
-2) On the Minecraft title screen select "Options"
-3) Select "Resource Packs" (bottom left).
-4) Then select "adriftus-resources". (or whatever the latest version is)
-
+2) On the Minecraft title screen, select "Options".
+3) Select "Resource Packs" on the bottom left.
+4) Locate the `adriftus-resources` resourcepack on the left column.
+5) Click the `>` button to add the resourcepack to the currently active column.
 
 ### What happens if I declined the Resource Pack?
 
 1) If you declined the RP when joining any server, you must allow Resource Packs again.
-2) On the server select screen, Single Click on "Adriftus Studios" (Or whatever you call our server)
+2) On the server select screen, Single Click on "Adriftus", or whatever you named our server in your server list.
 3) Click "Edit" on the bottom left.
-4) Click "Server Resource Packs:" untill "Enabled" is displayed.
+4) Toggle the "Server Resource Packs" option until "Enabled" is displayed.
 5) Go back to the server select screen, and join us in the action!
 
-
-That's all,
-
-Happy Mining!!
+    **That's all folks, Happy Mining!**
