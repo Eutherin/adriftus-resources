@@ -1,0 +1,14 @@
+{
+  "__comment": "treeeeeeeeeeee",
+  "animation": {
+    "interpolate": true,
+    "frametime": 4,
+    "frames":   [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "block/custom/013"
+        "all": "block/custom/end_leaf_2"
     }
 }
