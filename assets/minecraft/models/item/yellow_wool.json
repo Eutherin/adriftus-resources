@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/yellow_wool",
+    "textures": {
+        "layer0": "block/yellow_wool"
+    },
+	"overrides": [
+		{ "predicate": { "custom_model_data": 10001001 }, "model": "adriftus:furniture/beach/purple_beach_chair" }
+	]
+}

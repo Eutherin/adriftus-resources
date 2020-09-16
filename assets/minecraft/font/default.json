@@ -2,27 +2,27 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "minecraft:font/textures/claims_banner.png",
-            "ascent": 0,
-            "height": 36,
+            "file": "minecraft:font/claims_banner_sword.png",
+            "ascent": -7,
+            "height": 16,
             "chars": [
                 "\u0001"
             ]
         },
         {
             "type": "bitmap",
-            "file": "blaze.gif",
+            "file": "minecraft:font/claims_banner_bow.png",
             "ascent": 0,
-            "height": 300,
+            "height": 16,
             "chars": [
                 "\u0002"
             ]
         },
         {
             "type": "bitmap",
-            "file": "yellow_phat-64.png",
+            "file": "minecraft:font/claims_banner_staff.png",
             "ascent": 0,
-            "height": 64,
+            "height": 16,
             "chars": [
                 "\u0003"
             ]
