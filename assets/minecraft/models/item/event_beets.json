@@ -1,0 +1,14 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "block/beetroot"
+    },
+	"overrides": [
+        { "predicate": { "custom_model_data": 3 }, "model": "minecraft:textures/misc/progressbar0" },
+		{ "predicate": { "custom_model_data": 4 }, "model": "minecraft:textures/misc/progressbar1" },
+		{ "predicate": { "custom_model_data": 5 }, "model": "minecraft:textures/misc/progressbar2" },
+		{ "predicate": { "custom_model_data": 6 }, "model": "minecraft:textures/misc/progressbar3" },
+		{ "predicate": { "custom_model_data": 7 }, "model": "minecraft:textures/misc/progressbar4" },
+		{ "predicate": { "custom_model_data": 8 }, "model": "minecraft:textures/misc/progressbar5" }
+	]
+}
