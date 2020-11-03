@@ -1,6 +1,29 @@
 {
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "adriftus:world_event/progressbar0"
-    }
+	"credit": "Made with Blockbench",
+	"texture_size": [256, 256],
+	"textures": {
+		"0": "adriftus:world_event/progressbar0",
+		"particle": "adriftus:world_event/progressbar0"
+	},
+	"elements": [
+		{
+			"from": [-16, -8, 0],
+			"to": [32, 8, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.25, 15, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#missing"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"translation": [0, 23, 0],
+			"scale": [1, 0.35547, 1]
+		}
+	}
 }
