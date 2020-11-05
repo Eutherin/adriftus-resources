@@ -1,7 +1,7 @@
 {
-    "parent": "minecraft:item/nametag",
+    "parent": "item/generated",
     "textures": {
-        "layer0": "item/nametag"
+        "layer0": "item/name_tag"
     },
 	"overrides": [
         { "predicate": { "custom_model_data": 3 }, "model": "adriftus:item/world_event/tokens" }
