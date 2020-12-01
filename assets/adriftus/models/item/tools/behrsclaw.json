@@ -1,0 +1,53 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "entity/panda/playful_panda"
+	},
+	"elements": [
+		{
+			"name": "leg2",
+			"from": [5.5, 0, 6],
+			"to": [11.5, 9, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [3, 0, 18]},
+			"faces": {
+				"north": {"uv": [11.5, 1.5, 13, 3.75], "texture": "#0"},
+				"east": {"uv": [10, 1.5, 11.5, 3.75], "texture": "#0"},
+				"south": {"uv": [14.5, 1.5, 16, 3.75], "texture": "#0"},
+				"west": {"uv": [13, 1.5, 14.5, 3.75], "texture": "#0"},
+				"up": {"uv": [12, 0, 13.5, 1.5], "texture": "#0"},
+				"down": {"uv": [11.75, 2.25, 13.25, 3.75], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, -180, 0],
+			"translation": [0.25, -2.75, 6],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, -180, 0],
+			"translation": [-0.25, -2.75, 6],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_righthand": {
+			"rotation": [126.5, -180, 12.25],
+			"translation": [2.5, -2, 0.75]
+		},
+		"firstperson_lefthand": {
+			"rotation": [126.5, -180, 12.25],
+			"translation": [2.5, -2, 0.75]
+		},
+		"ground": {
+			"rotation": [-180, 0, 0],
+			"translation": [0, -2.25, 0]
+		},
+		"gui": {
+			"translation": [0, 3.75, 0]
+		},
+		"fixed": {
+			"translation": [0, 3.75, 0]
+		}
+	}
+}
