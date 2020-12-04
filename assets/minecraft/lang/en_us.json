@@ -88,9 +88,9 @@
   "key.mouse.right": "§fRight Button§r",
   "key.mouse.middle": "§fMiddle Button§r",
   
-  "options.language": "Language",
-  "options.sounds": "Better with Sound",
-  "options.resourcepack": "Custom Resource (/rp)",
+  "options.language": "Language...",
+  "options.sounds": "Music & Sounds...",
+  "options.resourcepack": "Resource Packs...",
 
   "tutorial.move.title": "§eMove with %s, %s, %s and %s§r",
   "tutorial.move.description": "§fJump with %s§r",
