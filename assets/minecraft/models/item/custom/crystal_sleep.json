@@ -1,6 +1,0 @@
-{
-	"parent": "item/custom/crystal",
-	"textures": {
-		"2": "item/custom/crystal_sleep"
-	}
-}
