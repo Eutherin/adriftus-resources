@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/firework_star",
+    "layer1": "minecraft:item/firework_star_overlay"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "adriftus:item/custom/soul_gray" },
+    { "predicate": { "custom_model_data": 2 }, "model": "adriftus:item/custom/soul_green" },
+    { "predicate": { "custom_model_data": 3 }, "model": "adriftus:item/custom/soul_blue" }
+  ]
+} 
