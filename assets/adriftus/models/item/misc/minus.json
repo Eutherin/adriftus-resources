@@ -1,6 +1,6 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "minecraft:item/custom/minus"
+		"layer0": "adriftus:item/custom/minus"
 	}
 }
