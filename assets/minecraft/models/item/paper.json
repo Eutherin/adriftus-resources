@@ -4,6 +4,9 @@
         "layer0": "item/paper"
     },
 	"overrides": [
-		{ "predicate": { "custom_model_data": 10140001 }, "model": "adriftus:item/alchemy/tattered_page" }
+    { "predicate": { "custom_model_data": 1 }, "model": "adriftus:item/misc/check" },
+    { "predicate": { "custom_model_data": 2 }, "model": "adriftus:item/misc/minus" },
+    { "predicate": { "custom_model_data": 3 }, "model": "adriftus:item/misc/boat_chest" }
+	{ "predicate": { "custom_model_data": 10140001 }, "model": "adriftus:item/alchemy/tattered_page" }
 	]
 }
